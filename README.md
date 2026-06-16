@@ -51,7 +51,3 @@ This repository is continuously updated as I learn new concepts and complete mor
 * Explore web development and APIs.
 * Learn Data Science and Machine Learning.
 * Contribute to open-source projects.
-
----
-
-⭐ Consistency beats intensity. Every commit is a step forward.
